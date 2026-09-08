@@ -355,23 +355,6 @@ push to main
 
 ---
 
-## Git History
-
-```
-d0dba6b  ci: add GitHub Actions deploy workflow and set base path for GitHub Pages
-abafe2b  chore: add config files and static assets
-731e3bc  prepare deployment
-60b5b96  add testing
-8166b8f  add AI credit assistant
-9e45395  add dashboard
-a6bb116  add validation rules
-b7c1d6a  add credit risk engine
-892523a  add SAP O2C data model
-a38e591  initial project setup
-```
-
----
-
 ## Known Limitations
 
 - **Simulation only**: The app does not connect to a real SAP ERP (ECC or S/4HANA) RFC or OData service.
