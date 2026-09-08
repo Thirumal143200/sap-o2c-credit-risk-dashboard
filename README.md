@@ -377,13 +377,6 @@ a38e591  initial project setup
 - **Simulation only**: The app does not connect to a real SAP ERP (ECC or S/4HANA) RFC or OData service.
 - **Client-side persistence**: All data lives in browser `localStorage`. Use the **Reset Demo** button to restore the original seed data.
 - **AI Assistant**: The credit assistant is rule-based. Connecting to a live LLM (Gemini, GPT-4, etc.) requires adding an API key in `src/utils/aiAssistant.ts`.
-
----
-
-## Author
-
-**Thirumal** — [GitHub @Thirumal143200](https://github.com/Thirumal143200)
-
 ---
 
 *Built with React 19 + TypeScript + Vite + Tailwind CSS v4. Deployed on GitHub Pages.*
